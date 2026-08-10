@@ -1,3 +1,4 @@
+package snippet;
 public class NumberBox {
     public static void main(String[] args) {
         int a = 100;
